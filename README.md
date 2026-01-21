@@ -13,3 +13,5 @@ Foi baseado em [(Cipher_Aes.java)](https://github.com/openjdk/jdk/blob/303de9a3f
 Testados no CLion e no InteliJ IDEA.
 Testados em arquivo de texto e em video mp4. Ambos emcriptados e decriptados com sucesso.
 
+O código funciona também no JNI do android, como linguagem nativa(lib.so).
+
