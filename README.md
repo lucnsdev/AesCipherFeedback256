@@ -15,3 +15,7 @@ Testados em arquivo de texto e em video mp4. Ambos emcriptados e decriptados com
 
 O código funciona também no JNI do android, como linguagem nativa(lib.so).
 
+Foi feito um teste de velocidade no código em C++, que mede o numero de bytes por segundos encriptados/decriptados, que resultou em:
+
+204Mb/s no Android. Um Galaxy A56.
+65Mb/s no notebook Dell com i3 12ª geração, no Windows 11.
